@@ -36,6 +36,8 @@ namespace CtrlPc_Package_CheckSum
                     }
                 }
             }
+            Console.ReadLine();
         }
+        
     }
 }
